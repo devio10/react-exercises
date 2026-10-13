@@ -1,0 +1,7 @@
+@import "/src/variables.scss";
+.card {
+    padding: 16px 24px;
+    background-color: var(--social-bg);
+    border-radius: 16px;
+    border: 0.5px solid var(--border);
+}
